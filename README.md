@@ -1,4 +1,4 @@
-This repository is about some basic python projects which are listed below :
+# This repository is about some python projects which are listed below :
 
 -> Alarm Clock
 
